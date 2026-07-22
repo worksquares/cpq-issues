@@ -1,6 +1,7 @@
 # WorkSquares CPQ — Issue Tracker
 
 Public issue tracker for **WorkSquares CPQ**, a configure-price-quote suite — product catalog, pricing, quotes, orders, and subscriptions — available on Web, Android, and iOS.
+**Live app:** https://cpq.worksquares.ai
 
 > **This repository is for issue tracking only.** It contains no source code — WorkSquares CPQ is a closed-source product. Pull requests cannot be accepted here.
 
